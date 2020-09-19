@@ -1,4 +1,4 @@
-### Hello Passerby!
+### :wave: Hello Passerby!
 
 #### I'm a beginner front-end developer who has decided to try out programming world. 
 
