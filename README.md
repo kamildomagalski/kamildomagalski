@@ -11,7 +11,9 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: There is no such amount of pizza that a man can't eat!
 
-#### I'm also curently looking for a job, so checkout my repo and don't hesitate to contact me!
+
+
+### I'm also curently looking for a job, so checkout my repo and don't hesitate to contact me!
 
 <!--
 **kamildomagalski/kamildomagalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
