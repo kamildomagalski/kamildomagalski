@@ -33,15 +33,30 @@
 </div>
 <hr/>
 
+#### My projects
+ <b>Oddaj Rzeczy</b> - App to give away pieces of clothes for people in need like single mothers or
+ homeless. Based on CodersLab project materials
+ <a href="https://github.com/kamildomagalski/OddajRzeczy">Repo</a> | <a href="https://oddajrzeczy-66300.web.app/">Demo</a>
+
+ <b>ToDo App</b> - Simple and very common project of ToDoApp to manage your daily tasks.
+ <a href="https://github.com/kamildomagalski/OddajRzeczy">Repo</a> | <a href="https://oddajrzeczy-66300.web.app/">Demo</a>
+
+ <b>Shopping Cart</b> - An example of a Cart that could bu used in a shop application. 
+ I followed UX Designer's guideline. Purpose of this app was to create a Component to handle cart checkout. 
+ Database contains only one item, Components can manage more items from database.
+ <b>NO RWD applied- desktop only</b>
+ <a href="https://github.com/kamildomagalski/shopping_cart">Repo</a> | <a href="https://shopping-cart-7c93b.web.app/">Demo</a>
+ 
+ <b>MovieBrowser</b> - Simple movi browser based on API data from https://www.themoviedb.org
+ <a href="https://github.com/kamildomagalski/MovieBrowser">Repo</a> |
+<hr/>
+
 #### 🔭 I’m currently working on:
-> Personal Trainer - App to track user physical activities, manage exercises plans, store data of recent
+<b>Personal Trainer</b> - App to track user physical activities, manage exercises plans, store data of recent
 activities.  
 <a href="https://github.com/kamildomagalski/PersonalTrainer">Repo</a>
 <br/>
 
-> Oddaj Rzeczy - App to give away pieces of clothes for people in need like single mothers or
-> homeless. Based on CodersLab project materials
-> <a href="https://github.com/kamildomagalski/OddajRzeczy">Repo</a> | <a href="https://oddajrzeczy-66300.web.app/">Demo</a>
 
 
 - 🌱 I’m currently learning JavaScript with React library.
