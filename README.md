@@ -39,7 +39,7 @@
  <a href="https://github.com/kamildomagalski/OddajRzeczy">Repo</a> | <a href="https://oddajrzeczy-66300.web.app/">Demo</a>
 
  <b>ToDo App</b> - Simple and very common project of ToDoApp to manage your daily tasks.
- <a href="https://github.com/kamildomagalski/OddajRzeczy">Repo</a> | <a href="https://oddajrzeczy-66300.web.app/">Demo</a>
+ <a href="https://github.com/kamildomagalski/ToDo-App">Repo</a> | <a href="https://todoapp-5c66f.web.app/">Demo</a>
 
  <b>Shopping Cart</b> - An example of a Cart that could bu used in a shop application. 
  I followed UX Designer's guideline. Purpose of this app was to create a Component to handle cart checkout. 
