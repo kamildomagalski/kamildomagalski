@@ -1,6 +1,6 @@
 ### :wave: Hello Passerby!
 
-#### I'm a front-end developer who enjoy learning new things. 
+#### I'm a front-end developer who enjoys learning new things. 
 
 #### Tech stack
 
@@ -34,7 +34,7 @@
     <img alt="Git" src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=flat"/>
     &nbsp;&nbsp;&nbsp;
     <img alt="GitLab" src="https://img.shields.io/badge/GitLab-grey?logo=gitlab&logoColor=white&style=flat"/>
-    <img alt="Github" src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&style=flat"/>
+    <img alt="Github" src="https://img.shields.io/badge/Github-222?logo=github&logoColor=white&style=flat"/>
 </div>
 <br/>
 <div>
